@@ -2,7 +2,7 @@
 
 A classification project that predicts which telecom customers are likely to cancel their service, so a company could reach out to them before they leave.
 
-This repo covers stage 1: cleaning the data, preprocessing it and training the first models.
+This repo covers  cleaning the data, preprocessing it, training the first models and evaluating it.
 
 ## Dataset
 
