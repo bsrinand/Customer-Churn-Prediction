@@ -49,8 +49,3 @@ Python, pandas, NumPy, scikit-learn, matplotlib, Google Colab
 2. Download the CSV from the Kaggle link above and upload it next to the notebook.
 3. Run all cells.
 
-## Next steps
-
-- Choose the threshold based on retention costs, to maximise expected profit.
-- Check probability calibration.
-- Try tree-based models and compare them using cross-validation.
